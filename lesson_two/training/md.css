@@ -1,0 +1,81 @@
+/* div.HH{color :brown;
+width : 3px;
+height : 100px;
+background-color :blue}
+
+div.l{color :chartreuse;
+background-color:blueviolet;
+height: 50px;
+width: 100px}
+
+h1.mine{color :beige;
+background-color: brown;
+width : 200px;
+height: 150px;
+float:right}
+h3.yours{color:aquamarine;
+background-color: black;
+width: 300px;
+height:350px;
+float:left}
+
+h2.test{color:aqua;
+background-color: aliceblue;
+width:400px;
+height:500px;
+float:left;
+font-style: oblique;
+text-align: center;
+box-shadow:3px 3px 3px gray;
+overflow-y:scroll;overflow-x:scroll;
+text-align:justify;
+text-align-last:center} */
+/* 
+div.subject.one{color:brown;
+background-color:aquamarine;
+width:150px;
+height:100px;
+float:left;
+overflow-y:scroll;overflow-x:scroll;
+text-align:justify;
+font-style:italic}
+div.subject.two{color:chocolate;
+background-color:steelblue;
+width:500px;
+height:190px;
+text-align:justify;
+font-style:initial;
+text-align-last:center;
+float:right} */
+h3.fine {
+    color: azure;
+    background-color: blueviolet;
+    width: 243px;
+    height: 60px;
+    font-style: italic;
+    float: left;
+    text-align: center
+}
+
+h3.magic {
+    color: crimson;
+    background-color: cornflowerblue;
+    width: 300px;
+    height: 300px;
+    font-style: initial;
+    float: right;
+    overflow-y: scroll;
+    overflow-x: scroll;
+    text-align-last: center
+}
+
+h5.fatal {
+    color: aliceblue;
+    background-color: black;
+    width: 120px;
+    height: 80px;
+    text-align: center;
+    clear: both;
+    float: center;
+    font-style: oblique
+}
